@@ -424,7 +424,7 @@ GameObject:
   - component: {fileID: 8677802370429236807}
   - component: {fileID: 510590090627756291}
   - component: {fileID: 5934238578197497514}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Elite Orc
   m_TagString: Monster
   m_Icon: {fileID: 0}
