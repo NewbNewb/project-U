@@ -1,0 +1,1844 @@
+fileFormatVersion: 2
+guid: d24348f098ea9cd4287a6a72ac75ff2f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Priest_Frame_0
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 486
+      width: 17
+      height: 22
+    spriteID: 6b4718ac0dda57b409d542ad63ca157a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 486}
+  - name: Priest_Frame_1
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 486
+      width: 17
+      height: 22
+    spriteID: b2aa109f75c7cdd4fba90f4fe8eeb984
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 486}
+  - name: Priest_Frame_2
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 239
+      width: 17
+      height: 23
+    spriteID: cbd6e8e6855bdc2498363df741e75a9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 239}
+  - name: Priest_Frame_3
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 270
+      width: 17
+      height: 23
+    spriteID: f215b2cbc70da8247a5e5596a2c65254
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 270}
+  - name: Priest_Frame_4
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 363
+      width: 17
+      height: 22
+    spriteID: 02e4fa787c553ff47866270542e5d04a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 363}
+  - name: Priest_Frame_5
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 393
+      width: 17
+      height: 22
+    spriteID: dcd3612290400634da581bf5a3781aad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 393}
+  - name: Priest_Frame_14
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 423
+      width: 17
+      height: 22
+    spriteID: fbcfe9ca1be0d3447a6259079ed06e2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 423}
+  - name: Priest_Frame_15
+    originalName: 
+    pivot: {x: 0.38888884, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 306
+      width: 18
+      height: 23
+    spriteID: d6e19cd716db72048bd5d53272562969
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 306}
+  - name: Priest_Frame_16
+    originalName: 
+    pivot: {x: 0.38888884, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 337
+      width: 18
+      height: 23
+    spriteID: ade9509cb4e601049a57081ffe3e05a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 337}
+  - name: Priest_Frame_17
+    originalName: 
+    pivot: {x: 0.4666666, y: -1.4285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 77
+      width: 15
+      height: 28
+    spriteID: e4e0abf87b65072478f3362ec2d4a77a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 77}
+  - name: Priest_Frame_18
+    originalName: 
+    pivot: {x: 0.15909089, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 168
+      width: 44
+      height: 35
+    spriteID: eb9851651a32c8a40b9047a2c0a23fe3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 168}
+  - name: Priest_Frame_19
+    originalName: 
+    pivot: {x: 0.15217389, y: -1.4814814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 287
+      width: 46
+      height: 27
+    spriteID: ac9f6c437c7309e4e90b432e227f0fd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 287}
+  - name: Priest_Frame_20
+    originalName: 
+    pivot: {x: 0.12962961, y: -1.2258065}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 4
+      width: 54
+      height: 31
+    spriteID: a3a1c12e3d3cb2145abbcee95dec2b60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 4}
+  - name: Priest_Frame_21
+    originalName: 
+    pivot: {x: 0.1372549, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 91
+      width: 51
+      height: 31
+    spriteID: a31fbaf4b2831d24abda3d279c26dda8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 91}
+  - name: Priest_Frame_22
+    originalName: 
+    pivot: {x: 0.16666664, y: -1.1764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 211
+      width: 42
+      height: 34
+    spriteID: cae874200828e4246a8ce1f29040f77e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 211}
+  - name: Priest_Frame_23
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 453
+      width: 17
+      height: 22
+    spriteID: 7a676215eccf74e49b9aac86cf357447
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 453}
+  - name: Priest_Frame_24
+    originalName: 
+    pivot: {x: 0.38888884, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 368
+      width: 18
+      height: 23
+    spriteID: 02148b63e8269d647b955d896b1bd3dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 368}
+  - name: Priest_Frame_25
+    originalName: 
+    pivot: {x: 0.38888884, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 399
+      width: 18
+      height: 23
+    spriteID: 533d2b4420b8b674ea36c4864a34c18e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 399}
+  - name: Priest_Frame_26
+    originalName: 
+    pivot: {x: 0.4666666, y: -1.4285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 270
+      width: 15
+      height: 28
+    spriteID: 79364a0964c31424c98acc95e3975ea1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 270}
+  - name: Priest_Frame_27
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 115
+      width: 27
+      height: 23
+    spriteID: dafc500df40ed864683c0cdb10d51df6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 115}
+  - name: Priest_Frame_28
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 146
+      width: 27
+      height: 23
+    spriteID: c349317f565dcad4b88772c65b19ed4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 146}
+  - name: Priest_Frame_29
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 177
+      width: 27
+      height: 23
+    spriteID: 8cc384f5d4dbb7e40af6c359350d7ec9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 177}
+  - name: Priest_Frame_30
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 208
+      width: 27
+      height: 23
+    spriteID: 9f2bfd2dac4aa8b4788402fd0ce823f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 208}
+  - name: Priest_Frame_31
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 239
+      width: 27
+      height: 23
+    spriteID: 8ce4e6a42f3c0804a949a91abda35f7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 239}
+  - name: Priest_Frame_37
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 483
+      width: 17
+      height: 22
+    spriteID: 94796998d90b43841a6308522a19c0ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 483}
+  - name: Priest_Frame_38
+    originalName: 
+    pivot: {x: 0.38888884, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 430
+      width: 18
+      height: 23
+    spriteID: 1e03e166202c8f84eac66a96d770c925
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 430}
+  - name: Priest_Frame_39
+    originalName: 
+    pivot: {x: 0.13461536, y: -1.4615384}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 253
+      width: 52
+      height: 26
+    spriteID: 8fa97b67c8c13b843a8b95facdd13142
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 253}
+  - name: Priest_Frame_40
+    originalName: 
+    pivot: {x: 0.13461536, y: -1.2666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 130
+      width: 52
+      height: 30
+    spriteID: 556b39d09e3073b468a6c170f49c2dad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 130}
+  - name: Priest_Frame_41
+    originalName: 
+    pivot: {x: 0.13461536, y: -1.1515151}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 50
+      width: 52
+      height: 33
+    spriteID: b20d1ce8ad131ec43b141039321ab86d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 50}
+  - name: Priest_Frame_42
+    originalName: 
+    pivot: {x: 0.13461536, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 52
+      height: 38
+    spriteID: 494da466397cd7648a71129a098a21c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Priest_Frame_43
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 4
+      width: 17
+      height: 22
+    spriteID: 7fd2725dc31ee7b4c98864ac3b38ab65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 4}
+  - name: Priest_Frame_44
+    originalName: 
+    pivot: {x: 0.38888884, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 461
+      width: 18
+      height: 23
+    spriteID: f12d442cd6813f04b84ef8640c4ff3a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 461}
+  - name: Priest_Frame_45
+    originalName: 
+    pivot: {x: 0.36842102, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 115
+      width: 19
+      height: 23
+    spriteID: 232c94bbf385cc546a24ad5bec635b93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 115}
+  - name: Priest_Frame_46
+    originalName: 
+    pivot: {x: 0.36842102, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 146
+      width: 19
+      height: 23
+    spriteID: a672554bcdf44f345b4bba13073a1fb3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 146}
+  - name: Priest_Frame_47
+    originalName: 
+    pivot: {x: 0.36842102, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 177
+      width: 19
+      height: 23
+    spriteID: facd5b54bedf4aa4e87ce5abbbbaee29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 177}
+  - name: Priest_Frame_48
+    originalName: 
+    pivot: {x: 0.36842102, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 208
+      width: 19
+      height: 23
+    spriteID: 5381254b6b64e99488b948f0a54a7625
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 208}
+  - name: Priest_Frame_53
+    originalName: 
+    pivot: {x: 0.43749994, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 43
+      width: 16
+      height: 22
+    spriteID: 7ef6641d6f0922d458acd26d656aa2a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 43}
+  - name: Priest_Frame_54
+    originalName: 
+    pivot: {x: 0.43749994, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 212
+      width: 16
+      height: 22
+    spriteID: 6ab05284e4f7f42479d7da2bb7c8e382
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 212}
+  - name: Priest_Frame_55
+    originalName: 
+    pivot: {x: 0.43749994, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 242
+      width: 16
+      height: 22
+    spriteID: f1a050b2986db1945bfa88e4fa33698a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 242}
+  - name: Priest_Frame_56
+    originalName: 
+    pivot: {x: 0.43749994, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 272
+      width: 16
+      height: 22
+    spriteID: b77816a611f298041a5f516ee1eb45d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 272}
+  - name: Priest_Frame_57
+    originalName: 
+    pivot: {x: 0.43749994, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 302
+      width: 16
+      height: 22
+    spriteID: 4a19c62729ae2a04e9eaa377cc74cbf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 302}
+  - name: Priest_Frame_58
+    originalName: 
+    pivot: {x: 0.43749994, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 332
+      width: 16
+      height: 20
+    spriteID: d8cd2dc67096a994891dfea8d29c0f41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 332}
+  - name: Priest_Frame_59
+    originalName: 
+    pivot: {x: 0.34999996, y: -2.222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 4
+      width: 20
+      height: 18
+    spriteID: 93405c0ab3f5a1744967cef097cf1860
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 4}
+  - name: Priest_Frame_60
+    originalName: 
+    pivot: {x: 0.29166663, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 492
+      width: 24
+      height: 14
+    spriteID: f48b346569f32dc48a372c94e7683f99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 492}
+  - name: Priest_Frame_6
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 34
+      width: 17
+      height: 22
+    spriteID: 6c9808a334371714bae353d06252b3c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 34}
+  - name: Priest_Frame_7
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 301
+      width: 17
+      height: 23
+    spriteID: 2b5f7fc60f5292e4cae3df03fc151585
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 301}
+  - name: Priest_Frame_8
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 64
+      width: 17
+      height: 22
+    spriteID: a2d397c1a89164140818d4fba44b4c98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 64}
+  - name: Priest_Frame_9
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 154
+      width: 17
+      height: 21
+    spriteID: 7a9c5401d55d2074daf06bb1d46f22e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 154}
+  - name: Priest_Frame_10
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 94
+      width: 17
+      height: 22
+    spriteID: 19ac9cc4e8dcb8c4bb69a2d7e144dc5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 94}
+  - name: Priest_Frame_11
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 99
+      y: 332
+      width: 17
+      height: 23
+    spriteID: ffa67fe9c01ac414887ff83688d4a660
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 332}
+  - name: Priest_Frame_12
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 124
+      width: 17
+      height: 22
+    spriteID: f321ef0783978ba4f863753c14e7b017
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 124}
+  - name: Priest_Frame_13
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 183
+      width: 17
+      height: 21
+    spriteID: d94dd1c9e0a85ac47a8a136893a0cf12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 183}
+  - name: Priest_Frame_32
+    originalName: 
+    pivot: {x: 0.22222233, y: -2.1249998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 409
+      width: 9
+      height: 24
+    spriteID: 2ed53c6e671390446bc32028649591a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 409}
+  - name: Priest_Frame_33
+    originalName: 
+    pivot: {x: 0.30769223, y: -1.7916666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 448
+      width: 13
+      height: 24
+    spriteID: 12a8d49359c3b574e88eb82f2e3f58ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 448}
+  - name: Priest_Frame_34
+    originalName: 
+    pivot: {x: 0.4333333, y: -1.2258065}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 409
+      width: 30
+      height: 31
+    spriteID: 269c958aa4f83cd44a6498db318fda57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 409}
+  - name: Priest_Frame_35
+    originalName: 
+    pivot: {x: 0.39130434, y: -1.3666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 77
+      width: 23
+      height: 30
+    spriteID: 541874ce2d341ff468f2a22cde2b9ad1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 77}
+  - name: Priest_Frame_36
+    originalName: 
+    pivot: {x: 0, y: -1.2424242}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 368
+      width: 5
+      height: 33
+    spriteID: d2ccde7585685264284179d1a9ac1521
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 368}
+  - name: Priest_Frame_49
+    originalName: 
+    pivot: {x: 0.4666666, y: -1.4615384}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 43
+      width: 30
+      height: 26
+    spriteID: ce2c3f2b4d8b6744b957ec84de8fb4bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 43}
+  - name: Priest_Frame_50
+    originalName: 
+    pivot: {x: 0.4666666, y: -1.2666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 448
+      width: 30
+      height: 30
+    spriteID: 8d85b15253b3b174792a7ec0dc6a4510
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 448}
+  - name: Priest_Frame_51
+    originalName: 
+    pivot: {x: 0.4666666, y: -1.1515151}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 368
+      width: 30
+      height: 33
+    spriteID: f701af92335eea949855cd43bda30d1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 368}
+  - name: Priest_Frame_52
+    originalName: 
+    pivot: {x: 0.4666666, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 322
+      width: 30
+      height: 38
+    spriteID: 49323936cba08374881d3984c5942385
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 322}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1030756247
+    name: Priest
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Priest_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 22
+      spriteId: 6b4718ac0dda57b409d542ad63ca157a
+    - name: Priest_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 22
+      spriteId: b2aa109f75c7cdd4fba90f4fe8eeb984
+    - name: Priest_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 23
+      spriteId: cbd6e8e6855bdc2498363df741e75a9a
+    - name: Priest_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 23
+      spriteId: f215b2cbc70da8247a5e5596a2c65254
+    - name: Priest_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 22
+      spriteId: 02e4fa787c553ff47866270542e5d04a
+    - name: Priest_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 22
+      spriteId: dcd3612290400634da581bf5a3781aad
+    - name: Priest_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 22
+      spriteId: fbcfe9ca1be0d3447a6259079ed06e2a
+    - name: Priest_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 43
+        y: 40
+        width: 18
+        height: 23
+      spriteId: d6e19cd716db72048bd5d53272562969
+    - name: Priest_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 43
+        y: 40
+        width: 18
+        height: 23
+      spriteId: ade9509cb4e601049a57081ffe3e05a0
+    - name: Priest_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 43
+        y: 40
+        width: 15
+        height: 28
+      spriteId: e4e0abf87b65072478f3362ec2d4a77a
+    - name: Priest_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 43
+        y: 40
+        width: 44
+        height: 35
+      spriteId: eb9851651a32c8a40b9047a2c0a23fe3
+    - name: Priest_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 43
+        y: 40
+        width: 46
+        height: 27
+      spriteId: ac9f6c437c7309e4e90b432e227f0fd5
+    - name: Priest_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 43
+        y: 38
+        width: 54
+        height: 31
+      spriteId: a3a1c12e3d3cb2145abbcee95dec2b60
+    - name: Priest_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 43
+        y: 40
+        width: 51
+        height: 31
+      spriteId: a31fbaf4b2831d24abda3d279c26dda8
+    - name: Priest_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 43
+        y: 40
+        width: 42
+        height: 34
+      spriteId: cae874200828e4246a8ce1f29040f77e
+    - name: Priest_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 22
+      spriteId: 7a676215eccf74e49b9aac86cf357447
+    - name: Priest_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 43
+        y: 40
+        width: 18
+        height: 23
+      spriteId: 02148b63e8269d647b955d896b1bd3dd
+    - name: Priest_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 43
+        y: 40
+        width: 18
+        height: 23
+      spriteId: 533d2b4420b8b674ea36c4864a34c18e
+    - name: Priest_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 43
+        y: 40
+        width: 15
+        height: 28
+      spriteId: 79364a0964c31424c98acc95e3975ea1
+    - name: Priest_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 23
+      spriteId: dafc500df40ed864683c0cdb10d51df6
+    - name: Priest_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 23
+      spriteId: c349317f565dcad4b88772c65b19ed4b
+    - name: Priest_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 23
+      spriteId: 8cc384f5d4dbb7e40af6c359350d7ec9
+    - name: Priest_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 23
+      spriteId: 9f2bfd2dac4aa8b4788402fd0ce823f2
+    - name: Priest_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 23
+      spriteId: 8ce4e6a42f3c0804a949a91abda35f7f
+    - name: Priest_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 22
+      spriteId: 94796998d90b43841a6308522a19c0ad
+    - name: Priest_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 43
+        y: 40
+        width: 18
+        height: 23
+      spriteId: 1e03e166202c8f84eac66a96d770c925
+    - name: Priest_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 43
+        y: 38
+        width: 52
+        height: 26
+      spriteId: 8fa97b67c8c13b843a8b95facdd13142
+    - name: Priest_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 43
+        y: 38
+        width: 52
+        height: 30
+      spriteId: 556b39d09e3073b468a6c170f49c2dad
+    - name: Priest_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 43
+        y: 38
+        width: 52
+        height: 33
+      spriteId: b20d1ce8ad131ec43b141039321ab86d
+    - name: Priest_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 43
+        y: 38
+        width: 52
+        height: 38
+      spriteId: 494da466397cd7648a71129a098a21c6
+    - name: Priest_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 22
+      spriteId: 7fd2725dc31ee7b4c98864ac3b38ab65
+    - name: Priest_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 43
+        y: 40
+        width: 18
+        height: 23
+      spriteId: f12d442cd6813f04b84ef8640c4ff3a1
+    - name: Priest_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 43
+        y: 40
+        width: 19
+        height: 23
+      spriteId: 232c94bbf385cc546a24ad5bec635b93
+    - name: Priest_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 43
+        y: 40
+        width: 19
+        height: 23
+      spriteId: a672554bcdf44f345b4bba13073a1fb3
+    - name: Priest_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 43
+        y: 40
+        width: 19
+        height: 23
+      spriteId: facd5b54bedf4aa4e87ce5abbbbaee29
+    - name: Priest_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 43
+        y: 40
+        width: 19
+        height: 23
+      spriteId: 5381254b6b64e99488b948f0a54a7625
+    - name: Priest_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 43
+        y: 40
+        width: 16
+        height: 22
+      spriteId: 7ef6641d6f0922d458acd26d656aa2a7
+    - name: Priest_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 43
+        y: 40
+        width: 16
+        height: 22
+      spriteId: 6ab05284e4f7f42479d7da2bb7c8e382
+    - name: Priest_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 43
+        y: 40
+        width: 16
+        height: 22
+      spriteId: f1a050b2986db1945bfa88e4fa33698a
+    - name: Priest_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 43
+        y: 40
+        width: 16
+        height: 22
+      spriteId: b77816a611f298041a5f516ee1eb45d7
+    - name: Priest_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 43
+        y: 40
+        width: 16
+        height: 22
+      spriteId: 4a19c62729ae2a04e9eaa377cc74cbf7
+    - name: Priest_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 43
+        y: 40
+        width: 16
+        height: 20
+      spriteId: d8cd2dc67096a994891dfea8d29c0f41
+    - name: Priest_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 43
+        y: 40
+        width: 20
+        height: 18
+      spriteId: 93405c0ab3f5a1744967cef097cf1860
+    - name: Priest_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 43
+        y: 40
+        width: 24
+        height: 14
+      spriteId: f48b346569f32dc48a372c94e7683f99
+    - name: Priest_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 22
+      spriteId: 6c9808a334371714bae353d06252b3c8
+    - name: Priest_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 23
+      spriteId: 2b5f7fc60f5292e4cae3df03fc151585
+    - name: Priest_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 22
+      spriteId: a2d397c1a89164140818d4fba44b4c98
+    - name: Priest_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 21
+      spriteId: 7a9c5401d55d2074daf06bb1d46f22e8
+    - name: Priest_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 22
+      spriteId: 19ac9cc4e8dcb8c4bb69a2d7e144dc5a
+    - name: Priest_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 23
+      spriteId: ffa67fe9c01ac414887ff83688d4a660
+    - name: Priest_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 22
+      spriteId: f321ef0783978ba4f863753c14e7b017
+    - name: Priest_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 21
+      spriteId: d94dd1c9e0a85ac47a8a136893a0cf12
+    - name: Priest_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 48
+        y: 51
+        width: 9
+        height: 24
+      spriteId: 2ed53c6e671390446bc32028649591a7
+    - name: Priest_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 46
+        y: 43
+        width: 13
+        height: 24
+      spriteId: 12a8d49359c3b574e88eb82f2e3f58ed
+    - name: Priest_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 37
+        y: 38
+        width: 30
+        height: 31
+      spriteId: 269c958aa4f83cd44a6498db318fda57
+    - name: Priest_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 41
+        y: 41
+        width: 23
+        height: 30
+      spriteId: 541874ce2d341ff468f2a22cde2b9ad1
+    - name: Priest_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 50
+        y: 41
+        width: 5
+        height: 33
+      spriteId: d2ccde7585685264284179d1a9ac1521
+    - name: Priest_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 36
+        y: 38
+        width: 30
+        height: 26
+      spriteId: ce2c3f2b4d8b6744b957ec84de8fb4bf
+    - name: Priest_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 36
+        y: 38
+        width: 30
+        height: 30
+      spriteId: 8d85b15253b3b174792a7ec0dc6a4510
+    - name: Priest_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 36
+        y: 38
+        width: 30
+        height: 33
+      spriteId: f701af92335eea949855cd43bda30d1e
+    - name: Priest_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 36
+        y: 38
+        width: 30
+        height: 38
+      spriteId: 49323936cba08374881d3984c5942385
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}
