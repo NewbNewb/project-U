@@ -1,6 +1,5 @@
 # project-U README.md
 :bulb:게임개발 온보딩 과제
-[**📜 온보딩 링크**](https://teamsparta.notion.site/8e3cd52a2e004b388b5a22494c24aa9a)
 
 ## **✅게임제목** : **project-U (무제)**
 
